@@ -1,21 +1,26 @@
-MIT License
+PolyForm Noncommercial License 1.0.0
 
 Copyright (c) 2026 Rishabh Kanhaiya
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Purpose
+This license allows anyone to view, inspect, learn from, fork, and use this software for any NONCOMMERCIAL purpose (personal projects, academic research, student portfolios, and non-profit educational study).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Agreement
+In order to receive this license, you must agree to its rules:
+1. You may inspect, download, modify, and run the code for personal learning and non-commercial evaluation.
+2. You MUST NOT use this software, in whole or in part, for any commercial purpose (selling as a product/service, charging fees, running a commercial business, or deploying within proprietary commercial software) without prior written permission from the copyright holder (Rishabh Kanhaiya).
+3. You must retain this copyright notice and license in all distributed copies or forks.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Noncommercial Purposes
+Any purpose is a noncommercial purpose, EXCEPT for:
+- Selling this software, including as a service or API.
+- Charging a fee or subscription to access, view, or use this software.
+- Using this software to run a commercial business, or to develop, market, or deliver any commercial product or service.
+
+## Commercial Licensing
+For commercial use, business integration, or enterprise licensing, please contact:
+Rishabh Kanhaiya (GitHub: @Rishabhkanhaiya)
+
+## Disclaimer & No Liability
+This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author or copyright holder be liable for any claim, damages, or other liability.
