@@ -5,7 +5,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-red.svg?style=for-the-badge)](https://polyformproject.org/licenses/noncommercial/1.0.0)
+[![License: GNU AGPLv3](https://img.shields.io/badge/License-GNU_AGPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/agpl-3.0)
 
 An advanced, autonomous **AI Educator & Interactive Digital Blackboard System** designed to deconstruct complex technical engineering subjects (Data Structures, Algorithms, Computer Systems, Machine Learning, and Engineering Mathematics) using an **8-stage pedagogical state machine**, real-time **Gemini 2.5 Flash Native Audio bidirectional spoken voice (Aoede)** in Professional Hinglish and Academic English, dynamic **Mermaid.js** architectural diagrams, **KaTeX** mathematical proofs, and an interactive **Code Execution Sandbox**.
 
@@ -268,4 +268,4 @@ cd ai-powered-elearning-platform
 ---
 
 ## 📄 License
-This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE) — free for personal, academic, and non-commercial educational use. Commercial use requires prior written authorization.
+This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE) — strong open-source copyleft protection for web applications.
