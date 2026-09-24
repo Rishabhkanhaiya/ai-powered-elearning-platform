@@ -1,0 +1,68 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Next.js Build
+.next/
+out/
+build/
+dist/
+
+# Environment Variables (Never commit secrets)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs & Diagnostics
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js telemetry & cache
+.turbo/
+next-env.d.ts
+
+# Temporary Scratch Files, Presentations & Slide Dumps
+*.pptx
+*.txt
+!requirements.txt
+extracted_images/
+rendered_slides*/
+final_edi_*
+final_verified_slides/
+friend_rendered_slides/
+project_screenshots/
+upgraded_ui_*/
+*.png
+*.jpg
+*.jpeg
+*.html
+test_*.py
+capture_*.py
+inspect_*.py
+render_*.py
+fit_board.py
+recapture_planner.py
+build_*.py
+create_presentation.py
+debug_*.py
+export_*.py
+run_playwright_capture.py
+generate_final_edi_deck.py
